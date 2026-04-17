@@ -97,7 +97,7 @@ export default function App() {
 
                   <div className="bg-surface-container-lowest/50 p-6 rounded-2xl border border-outline-variant/10">
                     <p className="text-xs text-on-surface-variant text-center mb-6 leading-relaxed">
-                      Este acesso é reservado e exclusivo. Confirme seu interesse em me conhecer toda safada.
+                      Este acesso é reservado e exclusivo. Confirme seu interesse em acessar seu Presente.
                     </p>
                     
                     <label className="flex items-center justify-center gap-3 cursor-pointer group">
