@@ -56,7 +56,7 @@ export default function App() {
             >
               <div className="space-y-4">
                 <p className="text-on-surface-variant text-sm font-medium tracking-wide">
-                  PREPARANDO SEU PRESENTINHO
+                  PREPARANDO PORTAL EXCLUSIVO
                 </p>
                 <div className="w-full h-[2px] bg-surface-container-highest rounded-full overflow-hidden relative">
                   <div className="absolute top-0 left-0 h-full bg-gradient-to-r from-primary-container to-primary rounded-full animate-progress" />
@@ -97,7 +97,7 @@ export default function App() {
 
                   <div className="bg-surface-container-lowest/50 p-6 rounded-2xl border border-outline-variant/10">
                     <p className="text-xs text-on-surface-variant text-center mb-6 leading-relaxed">
-                      Este acesso é reservado e exclusivo. Confirme seu interesse em acessar seu Presente.
+                      Este acesso é reservado e exclusivo. Confirme seu interesse em me conhecer toda safada.
                     </p>
                     
                     <label className="flex items-center justify-center gap-3 cursor-pointer group">
