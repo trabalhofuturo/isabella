@@ -56,7 +56,7 @@ export default function App() {
             >
               <div className="space-y-4">
                 <p className="text-on-surface-variant text-sm font-medium tracking-wide">
-                  PREPARANDO PORTAL EXCLUSIVO
+                  PREPARANDO SEU PRESENTINHO
                 </p>
                 <div className="w-full h-[2px] bg-surface-container-highest rounded-full overflow-hidden relative">
                   <div className="absolute top-0 left-0 h-full bg-gradient-to-r from-primary-container to-primary rounded-full animate-progress" />
