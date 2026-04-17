@@ -56,7 +56,7 @@ export default function App() {
             >
               <div className="space-y-4">
                 <p className="text-on-surface-variant text-sm font-medium tracking-wide">
-                  PREPARANDO SEU PRESENTINHO
+                  CARREGANDO SEU CONTEÚDO
                 </p>
                 <div className="w-full h-[2px] bg-surface-container-highest rounded-full overflow-hidden relative">
                   <div className="absolute top-0 left-0 h-full bg-gradient-to-r from-primary-container to-primary rounded-full animate-progress" />
@@ -81,11 +81,11 @@ export default function App() {
                   <div className="flex items-center gap-2 mb-4">
                     <Lock className="text-primary w-4 h-4" />
                     <span className="font-headline text-[10px] font-bold tracking-[0.2em] text-primary uppercase">
-                      Portal Exclusivo
+                      PORTAL VERRANE
                     </span>
                   </div>
                   <h1 className="font-headline text-3xl md:text-4xl font-extrabold text-on-surface text-center tracking-tight leading-tight">
-                    ACESSO<br />RESERVADO
+                    ACESSO<br />PRIVADO
                   </h1>
                 </div>
 
@@ -97,7 +97,7 @@ export default function App() {
 
                   <div className="bg-surface-container-lowest/50 p-6 rounded-2xl border border-outline-variant/10">
                     <p className="text-xs text-on-surface-variant text-center mb-6 leading-relaxed">
-                      Este acesso é reservado e exclusivo. Confirme seu interesse em me conhecer toda safada.
+                      Este acesso é reservado para você. Confirme que deseja acessar o conteúdo.
                     </p>
                     
                     <label className="flex items-center justify-center gap-3 cursor-pointer group">
